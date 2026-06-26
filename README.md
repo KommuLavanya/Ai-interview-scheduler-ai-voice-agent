@@ -34,3 +34,23 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# AI Interview Scheduler - AI Voice Agent
+
+An AI-powered interview scheduling and voice agent application that helps automate interview creation, scheduling, and candidate interaction.
+
+## Features
+
+- AI-based interview generation
+- Interview scheduling
+- Voice-based AI interview
+- Candidate feedback generation
+- Dashboard management
+
+## Screenshots
+
+### Dashboard
+<img src="./screenshots/pro1.jpeg" width="800"/>
+
+## creating Interview
+<img src="./screenshots/pro2.jpeg" width="800"/>
