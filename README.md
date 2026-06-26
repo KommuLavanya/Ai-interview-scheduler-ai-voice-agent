@@ -54,3 +54,24 @@ An AI-powered interview scheduling and voice agent application that helps automa
 
 ## creating Interview
 <img src="./screenshots/pro2.jpeg" width="800"/>
+
+## Previously created Interviews
+<img src="./screenshots/pro3.jpeg" width="800"/>
+
+## Interview details
+<img src="./screenshots/pro4.jpeg" width="800"/>
+
+## Student Verification
+<img src="./screenshots/pro5.jpeg" width="800"/>
+
+## Student Photo Verification
+<img src="./screenshots/pro6.jpeg" width="800"/>
+
+## Set For Interview
+<img src="./screenshots/pro7.jpeg" width="800"/>
+
+## Interview with AI
+<img src="./screenshots/pro10.jpeg" width="800"/>
+
+## Candidate Performance Report
+<img src="./screenshots/pro9.jpeg" width="800"/>
